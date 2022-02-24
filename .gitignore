@@ -1,0 +1,4 @@
+.env
+geckodriver.exe
+geckodriver.log
+jira_dashboard_image/
